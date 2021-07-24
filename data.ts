@@ -6,7 +6,7 @@ import { BsCircleFill } from 'react-icons/bs';
 export const services: ServiceInterface[] = [
   {
     title: 'Frontend Development',
-    about: 'Build beautiful SPA <b> HTML</b>, <b>CSS</b> and <b>React.js</b>',
+    about: 'Build beautiful SPA using <b> HTML</b>, <b>CSS</b> and <b>React.js</b>',
     Icon: RiComputerLine
   },
   {
